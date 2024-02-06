@@ -39,4 +39,11 @@ main {
   .hero {
     grid-template-columns: none;
   }
+  .hero-dish {
+    padding: 2rem;
+  }
+  .hero-dish > h1 {
+    padding: 1rem 0;
+    font-size: 2rem;
+  }
 }
